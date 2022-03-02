@@ -1,1 +1,11 @@
+gcc -g p1original.c
+ ./a.out
+enter the 2 numerator and denominater value
+ 
+1
+2
+1
+4
+the sum of two franctions 1/2+1/4 is 6/8 
+
 
